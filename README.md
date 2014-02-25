@@ -2,6 +2,10 @@
 
 Doge meets [Cuba](https://github.com/soveran/cuba)
 
+```bash
+gem install shibe
+```
+
 ```ruby
 require "shibe"
 require "cuba/render"
