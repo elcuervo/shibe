@@ -1,5 +1,7 @@
 # Shibe
 
+![](http://i0.kym-cdn.com/photos/images/original/000/704/928/6ee.gif)
+
 Doge meets [Cuba](https://github.com/soveran/cuba)
 
 ```bash
